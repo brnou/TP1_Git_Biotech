@@ -1,0 +1,6 @@
+
+Projet biotechnologique à versionner :
+J'aimerais versionner avec Git un pipeline d'analyse de données de laboratoire (par exemple des
+résultats de dosages ou de PCR). Les scripts Python, les protocoles et les paramètres d'analyse
+seraient suivis dans un dépôt, ce qui garantirait la reproductibilité des résultats et la traçabilité
+de chaque modification.
