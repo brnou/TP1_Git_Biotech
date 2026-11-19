@@ -1,6 +1,12 @@
+Binôme : Cheraiet Roumaissa Malak et Damiis Roufaida
+Spécialité : AEB
 
-Projet biotechnologique à versionner :
-J'aimerais versionner avec Git un pipeline d'analyse de données de laboratoire (par exemple des
-résultats de dosages ou de PCR). Les scripts Python, les protocoles et les paramètres d'analyse
-seraient suivis dans un dépôt, ce qui garantirait la reproductibilité des résultats et la traçabilité
-de chaque modification.
+Dans ce TP, nous avons appris à utiliser Git et GitHub pour gérer les versions d'un projet.
+Git permet de suivre les modifications et de garder l'historique complet des fichiers.
+GitHub permet d'héberger les projets en ligne et de faciliter le travail en équipe.
+Nous avons appris à créer un dépôt, à le cloner dans Google Colab et à utiliser les commandes Git de base.
+Nous avons aussi appris à ajouter des fichiers, à faire des commits et à les envoyer vers GitHub.
+Enfin, nous avons découvert la création de branches pour mieux organiser le travail.
+
+Notre projet biotechnologique consiste à utiliser des bactéries pour dégrader les polluants de l'environnement.
+Git permettra de suivre et de conserver toutes les modifications apportées à ce projet.
